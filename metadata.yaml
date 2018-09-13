@@ -1,0 +1,32 @@
+_repo: The-State-Its-History-and-Development-Viewed-Sociologically_51544
+_version: 0.0.1
+alternative_title: Der Staat. English
+contributor:
+  translator:
+    agent_name: Gitterman, John M. (John Milton)
+    alias: Gitterman, John Milton
+    gutenberg_agent_id: '46462'
+    url: http://www.gutenberg.org/2009/agents/46462
+creator:
+  author:
+    agent_name: Oppenheimer, Franz
+    alias: Openhaimer, Frants
+    birthdate: 1864
+    deathdate: 1943
+    gutenberg_agent_id: '46461'
+    url: http://www.gutenberg.org/2009/agents/46461
+description: ''
+gutenberg_issued: '2016-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'State, The'
+- !lcc 'JC'
+- GITenberg
+title: 'The State: Its History and Development Viewed Sociologically'
+url: http://www.gutenberg.org/ebooks/51544
