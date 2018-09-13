@@ -7,6 +7,9 @@ contributor:
     alias: Gitterman, John Milton
     gutenberg_agent_id: '46462'
     url: http://www.gutenberg.org/2009/agents/46462
+covers:
+- cover_type: archival
+  image_path: 51544-h/images/cover.jpg
 creator:
   author:
     agent_name: Oppenheimer, Franz
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46461'
     url: http://www.gutenberg.org/2009/agents/46461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51544#The-State-Its-History-and-Development-Viewed-Sociologically
 gutenberg_issued: '2016-03-24'
 gutenberg_type: Text
 identifiers:
